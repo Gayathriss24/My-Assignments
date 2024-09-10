@@ -8,7 +8,7 @@ public class Chrome {
 		boolean isBeta=false;
 		int releaseYear=2008;
 		char shortcutKey='C';
-		System.out.println("Version type: "+version+"\nDeveloper of string:"+developer+"\nType boolean: "+isBeta+"\nRelease year: "+releaseYear+"\nShortcut Key: "+shortcutKey);
+		System.out.println("Version type: "+version+"\nDeveloper :"+developer+"\nType : "+isBeta+"\nRelease year: "+releaseYear+"\nShortcut Key: "+shortcutKey);
 
 	}
 
